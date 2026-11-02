@@ -1,0 +1,1 @@
+Error Code: 1062. Duplicate entry 'Software Engineering' for key 'department.dept_name'

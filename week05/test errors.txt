@@ -6,6 +6,8 @@ Error Code: 1265. Data truncated for column 'gender' at row 1
 1 row(s) returned
 1 row(s) returned
 
-0 row(s) affected
+My Unique test error
+Error Code: 1062. Duplicate entry 'Software Engineering' for key 'department.dept_name'
+
 
 
